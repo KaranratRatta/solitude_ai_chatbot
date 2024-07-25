@@ -38,13 +38,13 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'List flights flying from',
-      subheading: 'San Francisco to Rome today',
+      heading: 'Create a bar chart',
+      subheading: '',
       message: `List flights flying from San Francisco to Rome today`
     },
     {
-      heading: 'What is the status',
-      subheading: 'of flight BA142?',
+      heading: 'Create a line chart',
+      subheading: '',
       message: 'What is the status of flight BA142?'
     }
   ]
